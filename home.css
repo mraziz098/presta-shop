@@ -98,7 +98,7 @@ html {
 
 /*container*/
 .container .cover {
-	background-image: url(background/i3.jpg);
+	background-image: url(/background/i3.jpg);
 	height: 93.2vh;
 	background-size: cover;
 	background-position: center;
